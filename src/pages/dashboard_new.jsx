@@ -119,9 +119,9 @@ function Dashboard() {
                   <Map
                     mapLib={import("mapbox-gl")}
                     initialViewState={{
-                      longitude: 52.514,
-                      latitude: 13.401,
-                      zoom: 12.14
+                      longitude: 13.401,
+                      latitude: 52.514,
+                      zoom: 12.22 
                     }}
                     style={{width: '100%', height: '100%'}}
                     mapStyle="mapbox://styles/syedhabib14/cm6kqi2yu00be01sa8tsnavde"
@@ -133,12 +133,12 @@ function Dashboard() {
                     terrain={false}
                   >
                     <Marker
-                      longitude={52.514}
-                      latitude={13.401}
+                      longitude={13.401}
+                      latitude={52.514}
                       onClick={() => {
                         setPopupInfo({
-                          longitude: 52.514,
-                          latitude: 13.401,
+                          longitude: 13.401,
+                          latitude: 52.514,
                           text: "Welcome to Supply Resilience Manager"
                         });
                       }}
