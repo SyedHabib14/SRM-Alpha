@@ -124,7 +124,7 @@ function Dashboard() {
                       zoom: 12.22 
                     }}
                     style={{width: '100%', height: '100%'}}
-                    mapStyle="mapbox://styles/syedhabib14/cm6kqi2yu00be01sa8tsnavde"
+                    mapStyle="mapbox://styles/syedhabib14/cm6qx2zeu00z901qrd3ch3uzw"
                     attributionControl={true}
                     renderWorldCopies={false}
                     preserveDrawingBuffer={true}
