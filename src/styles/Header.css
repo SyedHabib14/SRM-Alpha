@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main-header {
+    margin-bottom: 2rem;
+}
+
+.navbar-background {
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+    background-color: #ffffff; /* Light mode */
+}
+
+.dark .navbar-background {
+    background-color: #1a202c; /* Dark mode */
+}
+
+.navbar-start {
+    margin: auto;
+}
+
+#header-name {
+    font-size: xx-large;
+}
+
+.text-black {
+    transition: color 0.3s ease; /* Smooth transition */
+    color: #000000; /* Light mode text */
+}
+
+.dark .text-black {
+    color: #ffffff; /* Dark mode text */
+}
