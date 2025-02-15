@@ -12,7 +12,7 @@
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="80" style="margin: 10px;">
   <img src="https://bun.sh/logo.svg" alt="Bun" width="80" style="margin: 10px;">
   <img src="https://github.com/praveenpuglia/tailwind-breeze/blob/master/assets/logo.svg" alt="Tailwind CSS" width="80" style="margin: 10px;">
-  <img src="/public/daisyui-seeklogo.svg" alt="DaisyUI" width="80" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="DaisyUI" width="80" style="margin: 10px;">
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="80" style="margin: 10px;">
 </div>
 
