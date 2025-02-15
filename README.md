@@ -4,6 +4,33 @@
 
 ---
 
+## 🛠️ Tech Stack & Performance
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" style="margin: 0 20px;">
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="100" style="margin: 0 20px;">
+  <img src="https://bun.sh/logo.svg" alt="Bun" width="100" style="margin: 0 20px;">
+</div>
+
+### ⚡ Why We Chose Bun.js
+
+Bun.js is revolutionizing the JavaScript ecosystem with its incredible performance:
+
+| Operation          | Bun.js 🚀 | NPM 🐢 | Speed Improvement |
+|--------------------|----------|-------|-------------------|
+| Package Install    | 0.5s     | 5s    | 10x faster        |
+| Cold Start         | 50ms     | 200ms | 4x faster         |
+| Hot Reload         | 10ms     | 100ms | 10x faster        |
+| Memory Usage       | 50MB     | 150MB | 3x more efficient |
+
+**Key Advantages:**
+- 🚀 Built-in TypeScript support
+- 🔥 Native bundler and test runner
+- ⚡ Lightning-fast package management
+- 🛠️ Simplified development workflow
+
+---
+
 ## 📌 Overview
 
 The Supplier Resilience Manager (SRM) is a data-driven platform designed to empower automotive manufacturers in supplier negotiations. Our MVP focuses on providing actionable insights and tools for managing supplier relationships effectively.
@@ -41,7 +68,7 @@ graph TD
 
 ---
 
-## 🔮 Near-Future Enhancements
+## 🔮 Future Enhancements (Client Requirements)
 
 ### 🚨 Core Functionality
 ```mermaid
