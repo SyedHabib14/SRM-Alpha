@@ -1,4 +1,5 @@
 # 🚗 Supplier Resilience Manager (SRM) - MVP 🛠️
+## 🏷️ ALPHA (Closed Source Testing) | v0.5
 
 🌟 **A cutting-edge solution for automotive supply chain management and price negotiation**
 
@@ -7,10 +8,14 @@
 ## 🛠️ Tech Stack & Performance
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" style="margin: 0 20px;">
-  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="100" style="margin: 0 20px;">
-  <img src="https://bun.sh/logo.svg" alt="Bun" width="100" style="margin: 0 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="80" style="margin: 10px;">
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="80" style="margin: 10px;">
+  <img src="https://bun.sh/logo.svg" alt="Bun" width="80" style="margin: 10px;">
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="Tailwind CSS" width="80" style="margin: 10px;">
+  <img src="https://daisyui.com/images/daisyui-logo/daisyui-logomark.svg" alt="DaisyUI" width="80" style="margin: 10px;">
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="80" style="margin: 10px;">
 </div>
+
 
 ### ⚡ Why We Chose Bun.js
 
