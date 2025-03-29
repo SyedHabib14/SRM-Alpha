@@ -58,7 +58,7 @@ graph TD
 - Dark mode support 🌙
 
 ### 🗺️ Geographic Insights
-- Google Maps integration for supplier locations
+- MapBox Maps integration for supplier locations
 - Supply chain route optimization
 
 ### 📈 Data Management
